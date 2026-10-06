@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Hajar
-- 🌱 I’m currently learning Informatik
+ Hi, I’m @Hajar
+ CS , HCI , UX
+  
 
 <!---
 Hajarid/Hajarid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
